@@ -471,7 +471,7 @@
   <Command CommandName="SortSelectedSequenceId" CommandShortcut="0" />
   <Command CommandName="AnalyzeChromaticAberration" CommandShortcut="0" />
   <Command CommandName="WhiteBalanceTemperatureUp" CommandShortcut="65643" />
-  <Command CommandName="WhiteBalanceTemperatureDown" CommandShortcut="109" />
+  <Command CommandName="WhiteBalanceTemperatureDown" CommandShortcut="196714" />
   <Command CommandName="WhiteBalanceTintUp" CommandShortcut="327787" />
   <Command CommandName="WhiteBalanceTintDown" CommandShortcut="327789" />
   <Command CommandName="ColorBalanceHueUp" CommandShortcut="0" />

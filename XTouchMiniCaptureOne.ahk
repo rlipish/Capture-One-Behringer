@@ -77,12 +77,12 @@ if statusbyte between 176 and 191  ; MIDI CC
 		}
     if (data1=2 and data2<data3 and data2 !=0) {
 		data3:=data2
-		send, {NumpadSub}
+		send, ^+{NumpadMult}
 }
 
     if (data1=2 and data2=0) {
 		data3:=data2
-		send, {NumpadSub}
+		send, ^+{NumpadMult}
 }
 
 ;TINT
